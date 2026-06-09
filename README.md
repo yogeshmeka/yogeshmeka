@@ -14,7 +14,7 @@
 
 ## 🧠 About Me
 
-I'm **Yogesh Meka** — a passionate **Data Analyst & Software Engineer** with **3 years of industry experience**, currently pursuing my **MS in Data Science at the University of North Texas**. Previously, I built and delivered impactful data-driven solutions at **Virtusa**.
+I'm **Yogesh Meka** — a passionate **Data Analyst & Software Engineer** with **3 years of industry experience**, a May 2026 graduate with my **MS in Data Science at the University of North Texas**. Previously, I built and delivered impactful data-driven solutions at **Virtusa**.
 
 I thrive at the intersection of **AI, cloud engineering, analytics, and scalable software systems** — from designing robust ETL pipelines to deploying machine learning models in production.
 
