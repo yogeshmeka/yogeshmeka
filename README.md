@@ -6,7 +6,7 @@
 
 <br/>
 
-[![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=header&text=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20Cloud%20Builder&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=65)](https://github.com/yogeshmeka)
+[![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=header&text=Data%20Analyst%20%7C%20Data%20Engineer%20%7C%20AI-ML%20Engineer&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=65)](https://github.com/yogeshmeka)
 
 </div>
 
@@ -18,7 +18,7 @@ I'm **Yogesh Meka** — a passionate **Data Analyst & Software Engineer** with *
 
 I thrive at the intersection of **AI, cloud engineering, analytics, and scalable software systems** — from designing robust ETL pipelines to deploying machine learning models in production.
 
-Beyond engineering, I create content on **YouTube** and **Instagram**, sharing insights on tech, data, and career growth.
+Beyond engineering, I love **travel photography** and document my life as an international student in the **US** through **YouTube** and **Instagram** — exploring new places, cultures, and sharing those moments.
 
 - 🔭 Currently deep-diving into **Generative AI & LLM-based applications**
 - ☁️ Architecting scalable solutions across **AWS, Azure, and GCP**
@@ -54,8 +54,8 @@ Beyond engineering, I create content on **YouTube** and **Instagram**, sharing i
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+
 
 ### 🤖 AI / ML
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -65,7 +65,8 @@ Beyond engineering, I create content on **YouTube** and **Instagram**, sharing i
 
 ### 🔧 Tools & Workflow
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
 ![Agile/Scrum](https://img.shields.io/badge/Agile%2FScrum-0079BF?style=for-the-badge&logo=trello&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -165,7 +166,7 @@ Beyond engineering, I create content on **YouTube** and **Instagram**, sharing i
 
 <div align="center">
 
-I'm always open to collaborating on data-driven projects, discussing ML ideas, or just connecting with fellow builders.
+I share travel vlogs, photography & life abroad as an international student in the US 🌍 — follow along on YouTube & Instagram for the journey!
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@yogeshmeka5557)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yogeshmeks)
@@ -175,5 +176,8 @@ I'm always open to collaborating on data-driven projects, discussing ML ideas, o
 <br/>
 
 *"Building at the intersection of data, intelligence, and scale."*
+<br/>
+
+📞 **Phone:** +1 (940) 629-6599 &nbsp;|&nbsp; 📧 **Email:** yogeshmeka.99@gmail.com &nbsp;|&nbsp; 📍 **Address:** 3925 N Elm St, Denton, TX
 
 </div>
