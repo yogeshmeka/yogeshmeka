@@ -6,7 +6,7 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Analyst+%7C+Software+Engineer;Cloud+%26+ML+Engineer;3+Years+of+Industry+Experience;Turning+Data+into+Decisions)](https://git.io/typing-svg)
+[![capsule-render](https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=header&text=Data%20Analyst%20%7C%20ML%20Engineer%20%7C%20Cloud%20Builder&fontSize=18&fontColor=ffffff&animation=fadeIn&fontAlignY=65)](https://github.com/yogeshmeka)
 
 </div>
 
@@ -139,22 +139,23 @@ Beyond engineering, I create content on **YouTube** and **Instagram**, sharing i
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=yogeshmeka&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yogeshmeka&theme=tokyonight&hide_border=true" width="48%" />
+<img src="https://streak-stats.demolab.com/?user=yogeshmeka&theme=tokyonight&hide_border=true" width="60%" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yogeshmeka&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" width="48%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=yogeshmeka&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yogeshmeka&theme=tokyonight" width="32%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yogeshmeka&theme=tokyonight" width="32%" />
 
 </div>
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yogeshmeka&theme=onedark&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=yogeshmeka&theme=tokyo-night&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
