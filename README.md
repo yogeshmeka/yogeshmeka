@@ -111,6 +111,30 @@ Beyond engineering, I create content on **YouTube** and **Instagram**, sharing i
 
 ---
 
+### 🤖 Company RAG Pipeline — Retrieval-Augmented Generation Demo
+> Built a RAG-based pipeline for company knowledge retrieval using vector databases and large language models.
+> **Tech:** Python · LangChain · ChromaDB · RAG · LLM · Vector Search
+
+---
+
+### 🦙 LLAMA AI Agent — Offline Local Chatbot
+> Developed an offline chatbot using llama-cpp-python and a local LLaMA .gguf model, running fully in a Jupyter Notebook with no internet required.
+> **Tech:** Python · LLaMA · llama-cpp-python · Jupyter Notebook · Generative AI
+
+---
+
+### 🏥 Hospital Management System — Relational Database Project
+> Designed a relational database to manage hospital operations including patient records, appointments, billing, staff, and inventory using ER diagrams and SQL.
+> **Tech:** SQL · ER Diagrams · Google Colab · Database Design · Data Modeling
+
+---
+
+### 📈 TCR ML Project — Machine Learning Suite
+> A collection of ML models including Credit Card Fraud Detection, Gold Price Prediction, and Wine Quality Prediction using supervised learning.
+> **Tech:** Python · Scikit-learn · Pandas · Jupyter Notebook · Machine Learning
+
+---
+
 ## 📊 GitHub Stats
 
 <div align="center">
