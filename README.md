@@ -87,30 +87,6 @@ Beyond engineering, I create content on **YouTube** and **Instagram**, sharing i
 
 ## 🚀 Featured Projects
 
-### 🚲 Pedal Proof — Bicycle Accident Prevention Using Cloud Data Engineering
-> Engineered an end-to-end cloud data pipeline to analyze bicycle accident patterns and derive safety insights.
-> **Tech:** Python · PySpark · Apache Hive · AWS · BigQuery · ETL Pipelines · Tableau
-
----
-
-### 🧠 Alzheimer's Disease Detection — ML Classification Project
-> Built a machine learning classification system to detect early-stage Alzheimer's disease from clinical and imaging data.
-> **Tech:** Python · Scikit-learn · Pandas · Machine Learning · Data Preprocessing
-
----
-
-### 📊 Social Media Usage & Mental Health — ML Analysis
-> Analyzed correlations between social media behavior patterns and mental health outcomes using supervised ML models.
-> **Tech:** Python · Scikit-learn · Pandas · Data Visualization · EDA
-
----
-
-### 🌍 World Happiness Analysis — Data Visualization Project
-> Explored global happiness indicators across countries using interactive dashboards and statistical analysis.
-> **Tech:** Python · Pandas · Tableau · SQL · Data Visualization
-
----
-
 ### 🤖 Company RAG Pipeline — Retrieval-Augmented Generation Demo
 > Built a RAG-based pipeline for company knowledge retrieval using vector databases and large language models.
 > **Tech:** Python · LangChain · ChromaDB · RAG · LLM · Vector Search
@@ -123,15 +99,39 @@ Beyond engineering, I create content on **YouTube** and **Instagram**, sharing i
 
 ---
 
-### 🏥 Hospital Management System — Relational Database Project
-> Designed a relational database to manage hospital operations including patient records, appointments, billing, staff, and inventory using ER diagrams and SQL.
-> **Tech:** SQL · ER Diagrams · Google Colab · Database Design · Data Modeling
+### 🧠 Alzheimer's Disease Detection — ML Classification Project
+> Built a machine learning classification system to detect early-stage Alzheimer's disease from clinical and imaging data.
+> **Tech:** Python · Scikit-learn · Pandas · Machine Learning · Data Preprocessing
 
 ---
 
 ### 📈 TCR ML Project — Machine Learning Suite
 > A collection of ML models including Credit Card Fraud Detection, Gold Price Prediction, and Wine Quality Prediction using supervised learning.
 > **Tech:** Python · Scikit-learn · Pandas · Jupyter Notebook · Machine Learning
+
+---
+
+### 📊 Social Media Usage & Mental Health — ML Analysis
+> Analyzed correlations between social media behavior patterns and mental health outcomes using supervised ML models.
+> **Tech:** Python · Scikit-learn · Pandas · Data Visualization · EDA
+
+---
+
+### 🚲 Pedal Proof — Bicycle Accident Prevention Using Cloud Data Engineering
+> Engineered an end-to-end cloud data pipeline to analyze bicycle accident patterns and derive safety insights.
+> **Tech:** Python · PySpark · Apache Hive · AWS · BigQuery · ETL Pipelines · Tableau
+
+---
+
+### 🌍 World Happiness Analysis — Data Visualization Project
+> Explored global happiness indicators across countries using interactive dashboards and statistical analysis.
+> **Tech:** Python · Pandas · Tableau · SQL · Data Visualization
+
+---
+
+### 🏥 Hospital Management System — Relational Database Project
+> Designed a relational database to manage hospital operations including patient records, appointments, billing, staff, and inventory using ER diagrams and SQL.
+> **Tech:** SQL · ER Diagrams · Google Colab · Database Design · Data Modeling
 
 ---
 
